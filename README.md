@@ -1,7 +1,7 @@
 # wmf2svg
 Quick PowerShell script to convert old .wmf files to .svg using ImageMagick.
 
-Prequisite
+Prequisites
 ---
 [ImageMagick](https://imagemagick.org/script/download.php) - Make sure you add magick.exe to your PATH variable.
 
