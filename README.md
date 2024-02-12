@@ -1,5 +1,5 @@
 # wmf2svg
-Quick PowerShell script to convert old .WMF files (I harvest mine from old clip art CDs) to .SVG using ImageMagick.
+Quick PowerShell script to convert old .WMF files *(I harvest mine from old clip art CDs)* to .SVG using ImageMagick.
 
 Prequisites
 ---
